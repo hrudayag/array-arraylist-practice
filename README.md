@@ -11,7 +11,7 @@ This repository contains my practice work to understand the internal working of 
   * ArrayList → Array
 * Solve problems using both arrays and ArrayList.
 
-## 🧠 Concepts Covered
+## Concepts Covered
 
 * Internal structure of ArrayList
 * Capacity growth and resizing mechanism
